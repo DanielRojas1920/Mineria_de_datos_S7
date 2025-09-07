@@ -1,4 +1,4 @@
-# Practica 2
+# Entregables Práctica 2
 
 IMPORTANTE: Es necesario cargar el dataset 'avocado_clean.csv' en el notebook para poder utilizarlo.
 
