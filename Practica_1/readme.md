@@ -1,4 +1,4 @@
-# Entregables Semana 1
+# Entregables Práctica 1
 
 ## Descripción de archivos:
 
