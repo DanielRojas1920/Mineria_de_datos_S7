@@ -1,3 +1,3 @@
-## Practica 2
+# Practica 2
 
-# Descripción de archivos:
+## Descripción de archivos:
